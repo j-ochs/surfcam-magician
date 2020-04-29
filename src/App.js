@@ -44,7 +44,7 @@ const App = () => {
               <SurfCamContainer />
             </Route>
             <Route path="/">
-              <SurfCamContainer defaultSpotId="584204204e65fad6a77096b1" />
+              <SurfCamContainer defaultSpotId="5842041f4e65fad6a7708960" />
             </Route>
           </Switch>
         </div>
